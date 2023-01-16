@@ -1,1 +1,1 @@
-##A compilation of small React projects
+##A compilation of small React projects focussing on implementing small features project by projects
